@@ -1,0 +1,3 @@
+Summarise the following paragraph in one short sentence:
+
+OpenAI's API-based models are powerful and easy to use, but they can be expensive for repeated requests. This project compresses prompts before sending them to an LLM and supports local adapter clients so you can run models like LLaMA or other open-source runtimes locally while still reducing token usage.
