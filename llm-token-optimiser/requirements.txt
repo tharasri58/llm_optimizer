@@ -2,6 +2,8 @@ scikit-learn>=1.3
 nltk>=3.8
 tiktoken>=0.5
 click>=8.1
+rouge-score
+bert-score
 
 # optional, install as needed:
 # streamlit>=1.30          # dashboard
